@@ -1,5 +1,5 @@
 mi_variable = 12
-print(mi_variabla)
+print(mi_variablo)
 
 mi_variable2 = 'dario'
 print(mi_variable2)
